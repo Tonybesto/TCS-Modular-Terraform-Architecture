@@ -17,7 +17,7 @@ preferred_number_of_private_subnets = 4
 environment = "Production"
 
 
-ami = "ami-08c40ec9ead489470"
+ami = "ami-0149b2da6ceec4bb0"
 
 keypair = "devops"
 
